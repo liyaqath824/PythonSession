@@ -16,4 +16,12 @@ Enter the Second number: 90
 
 Addition of Two numbers is : 95
 
+3. Write a script, getting radius of a square, find the area of the square and return the output
+
+Output: 
+Enter the raidus of the square: 5
+
+The radius of the squure you entered is 5, therefore the area of the square is 25
+
+
  
