@@ -24,4 +24,13 @@ Enter the raidus of the square: 5
 The radius of the squure you entered is 5, therefore the area of the square is 25
 
 
+4. Write a script, getting Width and Length of a rectangle, find the area of the rectangle and return the output.
+
+Output: 
+Enter the Width Value:5
+Enter the Length Value:5
+
+The area of rectangle is 25
+
+
  
