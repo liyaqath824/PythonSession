@@ -10,7 +10,7 @@ Hey! Sanjay Pradeep
 
 2. Write a script, getting first number and second number, 
 
-Outout: 
+Output: 
 Enter the first number: 5
 Enter the Second number: 90
 
