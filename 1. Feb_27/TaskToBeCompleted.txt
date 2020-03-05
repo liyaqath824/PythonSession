@@ -1,0 +1,19 @@
+
+1. Write a script, getting user first name and last name, reply him Hey! First + Last name
+
+Output: 
+
+Enter your first name: Sanjay
+Enter your last Name: Pradeep
+
+Hey! Sanjay Pradeep
+
+2. Write a script, getting first number and second number, 
+
+Outout: 
+Enter the first number: 5
+Enter the Second number: 90
+
+Addition of Two numbers is : 95
+
+ 
